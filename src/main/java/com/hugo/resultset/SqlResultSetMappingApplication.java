@@ -1,4 +1,4 @@
-package com.hugo.SqlResultSetMapping;
+package com.hugo.resultset;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

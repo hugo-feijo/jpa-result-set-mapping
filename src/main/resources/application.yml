@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: SqlResultSetMapping
+    name: sql-result-set-mapping
   jpa:
     databse: POSTGRESQL
     show-sql: true

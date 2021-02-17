@@ -1,4 +1,4 @@
-package com.hugo.SqlResultSetMapping;
+package com.hugo.resultset;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

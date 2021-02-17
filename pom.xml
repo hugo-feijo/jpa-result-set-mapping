@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hugo</groupId>
-	<artifactId>SqlResultSetMapping</artifactId>
+	<artifactId>sql-result-set-mapping</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SqlResultSetMapping</name>
+	<name>sql-result-set-mapping</name>
 	<description>*</description>
 	<properties>
 		<java.version>11</java.version>
