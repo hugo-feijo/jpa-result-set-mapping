@@ -8,6 +8,7 @@ import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.annotations.Type;
 
 import javax.persistence.*;
+import java.sql.Date;
 import java.util.UUID;
 
 @Data
@@ -35,7 +36,7 @@ public class Employee {
     private String description;
 
     @Column(name = "hired_date")
-    private String hiredDate;
+    private Date hiredDate;
 
     @ManyToOne
     @JoinColumn(name = "id_company", nullable = false)
