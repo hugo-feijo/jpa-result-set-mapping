@@ -1,4 +1,4 @@
-package com.hugo.resultset.repository.employee;
+package com.hugo.resultset.repository.report;
 
 import com.hugo.resultset.domain.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
