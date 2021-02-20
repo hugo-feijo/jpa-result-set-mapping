@@ -34,6 +34,9 @@ public class Employee {
     @Column(name = "description")
     private String description;
 
+    @Column(name = "hired_date")
+    private String hiredDate;
+
     @ManyToOne
     @JoinColumn(name = "id_company", nullable = false)
     private Company company;
